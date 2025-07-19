@@ -1,2 +1,1 @@
-# scala-utils
-OLX Brazil bugbounty POC by @nvk0x
+# OLX Brasil bugbounty POC by @nvk0x
